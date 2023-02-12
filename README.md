@@ -4,4 +4,4 @@
 
 
 
-### [ссылка на html](https://olegsamy.github.io/9DZ_JS/index.html) 
+### [ссылка на html](https://olegsamy.github.io/10DZ_JS/index.html) 
